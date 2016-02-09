@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'proxima_nova_rgregular';
+    src: url('../fonts/mark_simonson_-_proxima_nova_regular.eot');
+    src: url('../fonts/mark_simonson_-_proxima_nova_regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/mark_simonson_-_proxima_nova_regular.woff2') format('woff2'),
+         url('../fonts/mark_simonson_-_proxima_nova_regular.woff') format('woff'),
+         url('../fonts/mark_simonson_-_proxima_nova_regular.ttf') format('truetype'),
+         url('../fonts/mark_simonson_-_proxima_nova_regular.svg#proxima_nova_rgregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
